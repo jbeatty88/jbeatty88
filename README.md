@@ -1,4 +1,8 @@
 - 👋 Hi, I’m Josh Beatty (@jbeatty88), welcome to my GitHub profile!
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 👀 I’m interested in using software to push the bounds of what's possible.  
 - 🌱 I’m currently studying these topics:
   - Kotlin
