@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Josh Beatty (@jbeatty88), welcome to my GitHub profile!
-- 👀 I’m interested in using software to push the bounds of what's possible.  
-- See my weekly language stats below
 
 <!--START_SECTION:waka-->
 
