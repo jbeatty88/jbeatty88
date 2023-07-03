@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 30 June 2023
+From: 01 June 2023 - To: 01 July 2023
 
-Total Time: 77 hrs 24 mins
+Total Time: 70 hrs 58 mins
 
-Go               61 hrs 8 mins   ███████████████████▓░░░░░   78.98 %
-YAML             4 hrs 59 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-SQL              2 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-textmate         2 hrs 25 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Docker           2 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Go               55 hrs 2 mins   ███████████████████▒░░░░░   77.54 %
+YAML             4 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+SQL              2 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+textmate         2 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Docker           2 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 ```
 
 <!--END_SECTION:waka-->
