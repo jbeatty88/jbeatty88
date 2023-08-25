@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2023 - To: 22 August 2023
+From: 24 July 2023 - To: 23 August 2023
 
-Total Time: 90 hrs 12 mins
+Total Time: 94 hrs 56 mins
 
-Go                    69 hrs 13 mins  ███████████████████▒░░░░░   76.74 %
-Markdown              5 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-SQL                   3 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Python                3 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
-YAML                  3 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Go                    72 hrs 45 mins  ███████████████████░░░░░░   76.65 %
+Markdown              5 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Python                4 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+SQL                   3 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+YAML                  3 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
