@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 01 November 2023
+From: 04 October 2023 - To: 03 November 2023
 
-Total Time: 30 hrs 51 mins
+Total Time: 31 hrs 36 mins
 
-Go               12 hrs 58 mins  ██████████▓░░░░░░░░░░░░░░   42.04 %
-SQL              8 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.81 %
-Bash             5 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Python           1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Scala            52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Go               12 hrs 57 mins  ██████████▒░░░░░░░░░░░░░░   40.97 %
+SQL              9 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+Bash             5 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+Python           1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Scala            52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
