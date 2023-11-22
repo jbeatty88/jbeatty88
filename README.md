@@ -17,7 +17,7 @@ Makefile              2 hrs 50 mins   █░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 - 💞️ I would love to collaborate!
-- 📫 You can reach me at joshbeatty@softwaresugar.co
+- 📫 You can reach me at josh.beatty@softwaresugar.com
 
 <!---
 jbeatty88/jbeatty88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
