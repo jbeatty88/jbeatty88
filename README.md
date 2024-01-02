@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 30 December 2023
+From: 01 December 2023 - To: 31 December 2023
 
-Total Time: 42 hrs 55 mins
+Total Time: 41 hrs 37 mins
 
-Go                    35 hrs 29 mins  ████████████████████▓░░░░   82.69 %
-HTTP Request          2 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-GraphQL               1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-JavaScript            54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Makefile              41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Go                    34 hrs 44 mins  █████████████████████░░░░   83.47 %
+HTTP Request          1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+GraphQL               1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+JavaScript            54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Makefile              39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
