@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 20 January 2024
+From: 22 December 2023 - To: 21 January 2024
 
-Total Time: 40 hrs 34 mins
+Total Time: 37 hrs 51 mins
 
-Go                    35 hrs 8 mins   █████████████████████▓░░░   86.63 %
-TypeScript            1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-YAML                  59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Makefile              43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-HTTP Request          30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Go                    32 hrs 27 mins  █████████████████████▒░░░   85.74 %
+TypeScript            1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+YAML                  59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Makefile              43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+HTTP Request          28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
