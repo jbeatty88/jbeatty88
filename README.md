@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 30 January 2024
+From: 01 January 2024 - To: 31 January 2024
 
-Total Time: 46 hrs 24 mins
+Total Time: 46 hrs 59 mins
 
-Go                    39 hrs 54 mins  █████████████████████▓░░░   86.00 %
-GraphQL               1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-TypeScript            1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-YAML                  1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Makefile              42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Go                    41 hrs 13 mins  ██████████████████████░░░   87.73 %
+GraphQL               1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+YAML                  1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+TypeScript            1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Makefile              42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
