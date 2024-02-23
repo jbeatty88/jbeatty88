@@ -3,14 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2024 - To: 20 February 2024
+From: 22 January 2024 - To: 21 February 2024
 
-Total Time: 54 hrs 18 mins
+Total Time: 50 hrs 19 mins
 
-Go             52 hrs 7 mins   ████████████████████████░   95.99 %
-GraphQL        1 hr 41 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-YAML           16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Bash           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Go             48 hrs 16 mins  ████████████████████████░   95.91 %
+GraphQL        1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+YAML           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Bash           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 Makefile       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
