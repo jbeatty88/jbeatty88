@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 05 March 2024
+From: 05 February 2024 - To: 06 March 2024
 
-Total Time: 37 hrs 47 mins
+Total Time: 33 hrs 5 mins
 
-Go                36 hrs 48 mins  ████████████████████████▒   97.43 %
-GraphQL           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Makefile          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-YAML              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Protocol Buffer   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Go                32 hrs 5 mins   ████████████████████████▒   96.96 %
+GraphQL           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Makefile          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+YAML              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Bash              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
