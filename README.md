@@ -3,15 +3,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2024 - To: 24 March 2024
+From: 26 March 2023 - To: 25 March 2024
 
-Total Time: 29 hrs 40 mins
+Total Time: 826 hrs 58 mins
 
-Go                27 hrs 6 mins   ██████████████████████▓░░   91.33 %
-GraphQL           1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Makefile          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-.env file         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Text              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Go                    610 hrs 58 mins ██████████████████▒░░░░░░   73.88 %
+SQL                   60 hrs 57 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Bash                  14 hrs 51 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+GraphQL               11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
