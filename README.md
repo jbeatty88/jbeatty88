@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2023 - To: 31 March 2024
+From: 02 April 2023 - To: 01 April 2024
 
-Total Time: 803 hrs 11 mins
+Total Time: 802 hrs 2 mins
 
-Go                    594 hrs 15 mins ██████████████████▒░░░░░░   73.99 %
-SQL                   60 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Bash                  14 hrs 21 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Go                    594 hrs 18 mins ██████████████████▓░░░░░░   74.10 %
+SQL                   60 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Bash                  14 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 GraphQL               11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
