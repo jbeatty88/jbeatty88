@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2023 - To: 23 April 2024
+From: 25 April 2023 - To: 24 April 2024
 
-Total Time: 758 hrs 27 mins
+Total Time: 752 hrs 20 mins
 
-Go                    569 hrs 19 mins ██████████████████▓░░░░░░   75.06 %
-SQL                   60 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-YAML                  20 hrs 4 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Bash                  13 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-JSON                  12 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Go                    563 hrs 22 mins ██████████████████▓░░░░░░   74.88 %
+SQL                   60 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 %
+YAML                  19 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Bash                  13 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JSON                  12 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
