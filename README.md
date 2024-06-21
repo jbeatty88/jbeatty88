@@ -3,15 +3,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 19 June 2024
+From: 21 June 2023 - To: 20 June 2024
 
-Total Time: 619 hrs 57 mins
+Total Time: 619 hrs 43 mins
 
-Go                    472 hrs 50 mins ███████████████████░░░░░░   76.27 %
+Go                    470 hrs 57 mins ███████████████████░░░░░░   75.99 %
 SQL                   49 hrs 27 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 GraphQL               13 hrs 41 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-YAML                  12 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-HTTP Request          11 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+YAML                  13 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Markdown              12 hrs 35 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
