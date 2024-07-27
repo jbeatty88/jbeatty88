@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2024 - To: 24 July 2024
+From: 25 June 2024 - To: 25 July 2024
 
-Total Time: 60 hrs 16 mins
+Total Time: 53 hrs 4 mins
 
-Go               39 hrs 3 mins   ████████████████▒░░░░░░░░   64.80 %
-XML              14 hrs 22 mins  ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-GraphQL          2 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Go               37 hrs 22 mins  █████████████████▓░░░░░░░   70.43 %
+XML              9 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+GraphQL          2 hrs 45 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 ```
 
 <!--END_SECTION:waka-->
