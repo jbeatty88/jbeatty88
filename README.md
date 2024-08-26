@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 23 August 2024
+From: 25 July 2024 - To: 24 August 2024
 
-Total Time: 7 hrs 59 mins
+Total Time: 8 hrs 57 mins
 
-Go                    5 hrs 47 mins   ██████████████████░░░░░░░   72.54 %
-HTTP Request          1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-XML                   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+Go                    6 hrs 45 mins   ███████████████████░░░░░░   75.48 %
+HTTP Request          1 hr            ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+XML                   31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
 ```
 
 <!--END_SECTION:waka-->
