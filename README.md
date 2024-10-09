@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2024 - To: 06 October 2024
+From: 07 September 2024 - To: 07 October 2024
 
-Total Time: 1 hr 1 min
+Total Time: 4 hrs 10 mins
 
-Go         1 hr 1 min      █████████████████████████   99.88 %
-go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Terraform        2 hrs 53 mins   █████████████████▒░░░░░░░   69.53 %
+Go               1 hr 1 min      ██████░░░░░░░░░░░░░░░░░░░   24.54 %
+Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
