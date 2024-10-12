@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 09 October 2024
+From: 10 September 2024 - To: 10 October 2024
 
-Total Time: 4 hrs 8 mins
+Total Time: 3 hrs 51 mins
 
-Terraform        2 hrs 53 mins   █████████████████▓░░░░░░░   70.01 %
-Go               59 mins         ██████░░░░░░░░░░░░░░░░░░░   24.03 %
-Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Terraform        2 hrs 53 mins   ██████████████████▓░░░░░░   75.07 %
+Go               42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
+Bash             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
