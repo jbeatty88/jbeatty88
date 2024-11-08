@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 05 November 2024
+From: 08 October 2024 - To: 07 November 2024
 
-Total Time: 4 hrs 59 mins
+Total Time: 1 hr 51 mins
 
-Terraform        2 hrs 53 mins   ██████████████▓░░░░░░░░░░   58.01 %
-Go               30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Go               30 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
+Docker           20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
 ```
 
 <!--END_SECTION:waka-->
