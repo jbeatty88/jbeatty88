@@ -3,12 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2024 - To: 10 November 2024
+From: 12 October 2024 - To: 11 November 2024
 
-Total Time: 1 hr 51 mins
+Total Time: 58 mins
 
-Go               30 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.20 %
-Docker           20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+Go               30 mins         ████████████▓░░░░░░░░░░░░   51.28 %
+Docker           20 mins         ████████▓░░░░░░░░░░░░░░░░   34.88 %
+GitIgnore file   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
 ```
 
 <!--END_SECTION:waka-->
