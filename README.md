@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 09 December 2024
+From: 10 November 2024 - To: 10 December 2024
 
-Total Time: 51 hrs 39 mins
+Total Time: 56 hrs 13 mins
 
-Go                   39 hrs 50 mins  ███████████████████▒░░░░░   77.13 %
-Markdown             57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Go                   43 hrs 24 mins  ███████████████████▒░░░░░   77.22 %
+Markdown             1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
