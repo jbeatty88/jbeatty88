@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 04 January 2025
+From: 06 December 2024 - To: 05 January 2025
 
-Total Time: 66 hrs 32 mins
+Total Time: 60 hrs 28 mins
 
-Go                     40 hrs 12 mins  ███████████████░░░░░░░░░░   60.44 %
-Kotlin                 3 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Go                     34 hrs 12 mins  ██████████████░░░░░░░░░░░   56.57 %
+Kotlin                 3 hrs 42 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
 ```
 
 <!--END_SECTION:waka-->
