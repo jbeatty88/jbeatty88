@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 23 January 2025
+From: 26 December 2024 - To: 25 January 2025
 
-Total Time: 52 hrs 45 mins
+Total Time: 59 hrs 27 mins
 
-Go                28 hrs 51 mins  █████████████▓░░░░░░░░░░░   54.70 %
-Kotlin            9 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-TypeScript        1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Go                35 hrs 1 min    ██████████████▓░░░░░░░░░░   58.92 %
+Kotlin            10 hrs 7 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+TypeScript        1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
