@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 11 February 2025
+From: 13 January 2025 - To: 12 February 2025
 
-Total Time: 80 hrs 59 mins
+Total Time: 82 hrs 18 mins
 
-Go                64 hrs 58 mins  ████████████████████░░░░░   80.21 %
-TypeScript        4 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Kotlin            1 hr 24 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Go                65 hrs 1 min    ███████████████████▓░░░░░   79.01 %
+TypeScript        4 hrs 55 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Kotlin            1 hr 24 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
