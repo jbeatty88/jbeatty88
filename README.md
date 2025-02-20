@@ -3,13 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2025 - To: 17 February 2025
+From: 20 January 2025 - To: 19 February 2025
 
-Total Time: 74 hrs 47 mins
+Total Time: 76 hrs 50 mins
 
-Go                57 hrs 43 mins  ███████████████████▒░░░░░   77.17 %
-TypeScript        4 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-go.mod            1 hr 55 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Go                   59 hrs 27 mins  ███████████████████▒░░░░░   77.37 %
+TypeScript           3 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
