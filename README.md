@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 05 March 2025
+From: 04 February 2025 - To: 06 March 2025
 
-Total Time: 62 hrs 31 mins
+Total Time: 60 hrs 20 mins
 
-Go                     28 hrs 43 mins  ███████████▒░░░░░░░░░░░░░   45.95 %
-Terraform              10 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+Go                     23 hrs 30 mins  █████████▓░░░░░░░░░░░░░░░   38.97 %
+Terraform              11 hrs 23 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
 ```
 
 <!--END_SECTION:waka-->
