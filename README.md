@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2025 - To: 22 April 2025
+From: 24 March 2025 - To: 23 April 2025
 
-Total Time: 95 hrs 28 mins
+Total Time: 99 hrs 23 mins
 
-Go                    70 hrs 48 mins  ██████████████████▓░░░░░░   74.16 %
-SQL                   3 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+Go                    74 hrs 21 mins  ██████████████████▓░░░░░░   74.81 %
+SQL                   4 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
