@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 04 May 2025
+From: 05 April 2025 - To: 05 May 2025
 
-Total Time: 101 hrs 43 mins
+Total Time: 97 hrs 59 mins
 
-Go                    77 hrs 46 mins  ███████████████████░░░░░░   76.46 %
-HTTP Request          3 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Go                    74 hrs 37 mins  ███████████████████░░░░░░   76.16 %
+HTTP Request          3 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
