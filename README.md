@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2025 - To: 17 May 2025
+From: 18 April 2025 - To: 18 May 2025
 
-Total Time: 81 hrs 53 mins
+Total Time: 78 hrs 29 mins
 
-Go                    52 hrs 8 mins   ████████████████░░░░░░░░░   63.67 %
-TypeScript            5 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Go                    48 hrs 57 mins  ███████████████▓░░░░░░░░░   62.38 %
+TypeScript            5 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
