@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2025 - To: 12 August 2025
+From: 14 July 2025 - To: 13 August 2025
 
-Total Time: 51 hrs 28 mins
+Total Time: 54 hrs 49 mins
 
-Go                             32 hrs 29 mins  ███████████████▓░░░░░░░░░   63.11 %
-HTTP Request                   4 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-SQL                            2 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Go                             34 hrs 44 mins  ████████████████░░░░░░░░░   63.39 %
+HTTP Request                   4 hrs 49 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+JavaScript                     2 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
 
 <!--END_SECTION:waka-->
