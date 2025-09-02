@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2025 - To: 30 August 2025
+From: 01 August 2025 - To: 31 August 2025
 
-Total Time: 71 hrs 10 mins
+Total Time: 69 hrs 24 mins
 
-Go                             51 hrs 51 mins  ██████████████████▒░░░░░░   72.87 %
-SQL                            4 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-TypeScript                     4 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Go                             51 hrs 2 mins   ██████████████████▒░░░░░░   73.54 %
+TypeScript                     4 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+SQL                            3 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
