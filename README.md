@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 13 October 2025
+From: 15 September 2025 - To: 15 October 2025
 
-Total Time: 50 hrs 58 mins
+Total Time: 55 hrs 44 mins
 
-Go                33 hrs 49 mins  ████████████████▓░░░░░░░░   66.36 %
-TypeScript        3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Go                34 hrs 57 mins  ███████████████▓░░░░░░░░░   62.71 %
+TypeScript        4 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
 ```
 
 <!--END_SECTION:waka-->
