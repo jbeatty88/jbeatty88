@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 06 November 2025
+From: 08 October 2025 - To: 07 November 2025
 
-Total Time: 62 hrs 39 mins
+Total Time: 67 hrs 26 mins
 
-Go                39 hrs 9 mins   ███████████████▓░░░░░░░░░   62.50 %
-Markdown          3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-HTTP Request      3 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Go                43 hrs 39 mins  ████████████████▒░░░░░░░░   64.73 %
+Markdown          3 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+HTTP Request      3 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
