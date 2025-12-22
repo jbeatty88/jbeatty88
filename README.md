@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2025 - To: 19 December 2025
+From: 20 November 2025 - To: 20 December 2025
 
-Total Time: 32 hrs 53 mins
+Total Time: 28 hrs 51 mins
 
-TypeScript        12 hrs 59 mins  ██████████░░░░░░░░░░░░░░░   39.52 %
-Go                10 hrs 6 mins   ███████▓░░░░░░░░░░░░░░░░░   30.73 %
-HTTP Request      1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+TypeScript        13 hrs 1 min    ███████████▒░░░░░░░░░░░░░   45.10 %
+Go                7 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.25 %
+HTTP Request      1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
 ```
 
 <!--END_SECTION:waka-->
