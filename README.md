@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 23 January 2026
+From: 25 December 2025 - To: 24 January 2026
 
-Total Time: 27 hrs 21 mins
+Total Time: 27 hrs 39 mins
 
-Go                     18 hrs 58 mins  █████████████████▒░░░░░░░   69.37 %
-Markdown               2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-SQL                    2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Go                     19 hrs 16 mins  █████████████████▒░░░░░░░   69.70 %
+Markdown               2 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+SQL                    2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
 ```
 
 <!--END_SECTION:waka-->
