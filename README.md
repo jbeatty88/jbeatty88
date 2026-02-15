@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2026 - To: 12 February 2026
+From: 14 January 2026 - To: 13 February 2026
 
-Total Time: 69 hrs 52 mins
+Total Time: 75 hrs 2 mins
 
-Go                     54 hrs 4 mins   ███████████████████▒░░░░░   77.39 %
-Markdown               6 hrs 10 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-HTTP Request           1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Go                     57 hrs 51 mins  ███████████████████▒░░░░░   77.11 %
+Markdown               6 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+SQL                    1 hr 54 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
