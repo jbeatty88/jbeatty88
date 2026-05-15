@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 12 May 2026
+From: 14 April 2026 - To: 14 May 2026
 
-Total Time: 24 hrs 36 mins
+Total Time: 26 hrs 32 mins
 
-Go                             16 hrs 18 mins        ████████████████▓░░░░░░░░   66.27 %
-Markdown                       2 hrs 33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-SQL                            47 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Go                             16 hrs 23 mins        ███████████████▒░░░░░░░░░   61.73 %
+Markdown                       3 hrs                 ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+SQL                            1 hr 16 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
