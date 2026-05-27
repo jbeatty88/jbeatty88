@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2026 - To: 24 May 2026
+From: 25 April 2026 - To: 25 May 2026
 
-Total Time: 24 hrs 15 mins
+Total Time: 23 hrs 35 mins
 
-Go                             10 hrs 20 mins        ██████████▓░░░░░░░░░░░░░░   42.61 %
-Markdown                       2 hrs 37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Go                             9 hrs 49 mins         ██████████▒░░░░░░░░░░░░░░   41.65 %
+Markdown                       2 hrs 34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 ```
 
 <!--END_SECTION:waka-->
