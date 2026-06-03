@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 31 May 2026
+From: 02 May 2026 - To: 01 June 2026
 
-Total Time: 18 hrs 27 mins
+Total Time: 19 hrs 45 mins
 
-Go                             6 hrs 26 mins         ████████▓░░░░░░░░░░░░░░░░   34.91 %
-JavaScript                     1 hr 32 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+Go                             6 hrs 26 mins         ████████░░░░░░░░░░░░░░░░░   32.63 %
+JavaScript                     2 hrs 12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
 ```
 
 <!--END_SECTION:waka-->
