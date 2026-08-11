@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2026 - To: 08 August 2026
+From: 10 July 2026 - To: 09 August 2026
 
-Total Time: 34 hrs 24 mins
+Total Time: 32 hrs 41 mins
 
-Markdown              7 hrs 31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-HTTP Request          7 hrs 12 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-Terraform             4 hrs 41 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
+Markdown              7 hrs 25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+HTTP Request          6 hrs 58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+Terraform             4 hrs 38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
 ```
 
 <!--END_SECTION:waka-->
