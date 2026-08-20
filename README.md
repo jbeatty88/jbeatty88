@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 July 2026 - To: 17 August 2026
+From: 19 July 2026 - To: 18 August 2026
 
-Total Time: 41 hrs 13 mins
+Total Time: 40 hrs 53 mins
 
-HTTP Request          8 hrs 48 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-Markdown              6 hrs 8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.88 %
+HTTP Request           8 hrs 43 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
+Markdown               6 hrs 24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
 ```
 
 <!--END_SECTION:waka-->
