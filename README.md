@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2026 - To: 25 October 2026
+From: 27 September 2026 - To: 27 October 2026
 
-Total Time: 45 hrs 32 mins
+Total Time: 43 hrs 52 mins
 
-Markdown               13 hrs 4 mins         ███████▒░░░░░░░░░░░░░░░░░   28.71 %
-Go                     6 hrs 3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Markdown               12 hrs 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.81 %
+Terraform              5 hrs 31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
 ```
 
 <!--END_SECTION:waka-->
